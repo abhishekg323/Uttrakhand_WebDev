@@ -1,0 +1,9 @@
+nav .navbar-nav li a{
+    color: white !important;
+    text-shadow: 1px 1px 2px rgb(0, 0, 0), 0 0 1em blue, 0 0 0.2em rgb(0, 0, 0);
+    
+}
+nav .navbar-brand{
+    color: white !important;
+    text-shadow: rgb(0, 0, 0) 2px 0 10px;
+}

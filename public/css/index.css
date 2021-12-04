@@ -1,0 +1,23 @@
+body{
+    background-image: url("../images/main-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    margin-top: 10%;
+    
+}
+.title h1{
+    font-size: 5rem;
+}
+.title p{
+    font-size: 1.6rem;
+}
+/* .title h1, .title p{
+    font-family: monospace;
+} */
+.carousel-caption, h1, p{
+    color:white;
+    text-shadow: 2px 2px 8px #4524ff;
+}
+
